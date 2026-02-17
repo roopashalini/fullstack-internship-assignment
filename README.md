@@ -22,8 +22,7 @@ This is a fullstack project for a **task management system**.
 - Password: 123456
 
 ## Deployment
-- Backend: [Your Backend Live URL]
-- Frontend: [Your Frontend Live URL]
+- Task-colab: https://fullstack-internship-assignment-1.onrender.com
 
 ## Notes
 - `.env` and `node_modules` are ignored in this repository
